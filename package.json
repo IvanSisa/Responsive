@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "sass": "^1.49.0"
+  },
+  "name": "responsive",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass -w index.scss index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanSisa/Responsive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanSisa/Responsive/issues"
+  },
+  "homepage": "https://github.com/IvanSisa/Responsive#readme"
+}
